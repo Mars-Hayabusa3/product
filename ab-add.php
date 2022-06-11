@@ -21,6 +21,10 @@ include __DIR__ . '/parts/navbar.php';
     <link rel="stylesheet" href="./fontawesome-free-6.1.1-web/css/all.css">
     <title>Document</title>
     <style>
+        .body {
+            background-color: #e5e5e5;
+        }
+
         .form-control.red {
             border: 1px solid red;
         }

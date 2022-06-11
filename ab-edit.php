@@ -34,6 +34,10 @@ $category = [
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="./fontawesome-free-6.1.1-web/css/all.css">
     <style>
+        .body {
+            background-color: #e5e5e5;
+        }
+
         .form-control.red {
             border: 1px solid red;
         }
